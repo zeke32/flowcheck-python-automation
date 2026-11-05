@@ -1,0 +1,16 @@
+source_line,order_id,reason
+242,ORD-10001,Duplicate order ID
+243,ORD-10002,Duplicate order ID
+244,ORD-10003,Duplicate order ID
+245,ORD-10004,Duplicate order ID
+246,BAD-DATE-0,Invalid date (expected YYYY-MM-DD)
+247,BAD-DATE-1,Invalid date (expected YYYY-MM-DD)
+248,BAD-DATE-2,Invalid date (expected YYYY-MM-DD)
+249,BAD-QTY-0,Units must be positive and unit price must be non-negative
+250,BAD-QTY-1,Units must be positive and unit price must be non-negative
+251,BAD-PRICE-0,Units must be positive and unit price must be non-negative
+252,BAD-PRICE-1,Units must be positive and unit price must be non-negative
+253,BAD-REGION-0,Unknown region
+254,BAD-REGION-1,Unknown region
+255,BAD-EMPTY-0,Missing required field(s): customer_id
+256,BAD-EMPTY-1,Missing required field(s): customer_id

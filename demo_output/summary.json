@@ -1,0 +1,30 @@
+{
+  "input_rows": 255,
+  "accepted_rows": 240,
+  "rejected_rows": 15,
+  "acceptance_pct": 94.1,
+  "completed_orders": 179,
+  "pending_orders": 43,
+  "cancelled_orders": 18,
+  "completed_revenue_usd": "82524.50",
+  "revenue_by_region": {
+    "North": "24036.00",
+    "South": "19738.50",
+    "East": "16727.00",
+    "West": "13874.50",
+    "Central": "8148.50"
+  },
+  "revenue_by_category": {
+    "Outdoor": "26228.50",
+    "Office": "21300.00",
+    "Home": "18024.50",
+    "Electronics": "16971.50"
+  },
+  "issue_counts": {
+    "Duplicate order ID": 4,
+    "Invalid date (expected YYYY-MM-DD)": 3,
+    "Units must be positive and unit price must be non-negative": 4,
+    "Unknown region": 2,
+    "Missing required field(s): customer_id": 2
+  }
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="t d">
+<title id="t">FlowCheck dashboard preview</title>
+<desc id="d">Synthetic data, 255 input records, 240 accepted rows, 15 rejected rows, 94.1% quality</desc>
+<rect width="1000" height="750" fill="#f4f7fa"/>
+<rect x="36" y="24" width="928" height="702" rx="22" fill="#ffffff" stroke="#dce5ef"/>
+<path d="M58 24h884q22 0 22 22v82H36V46q0-22 22-22" fill="#16324f"/>
+<g font-family="Arial, sans-serif">
+<text x="72" y="79" font-size="32" font-weight="bold" fill="white">FlowCheck</text>
+<text x="73" y="108" font-size="14" fill="#c3d6e6">Python CSV automation &amp; data-quality reporting</text>
+<text x="920" y="78" text-anchor="end" font-size="13" fill="#d8e8f2">INDEPENDENT DEMO</text>
+<rect x="66" y="156" width="206" height="126" rx="11" fill="#eef5fb"/>
+<rect x="287" y="156" width="206" height="126" rx="11" fill="#ebf8f3"/>
+<rect x="508" y="156" width="206" height="126" rx="11" fill="#fff3ec"/>
+<rect x="729" y="156" width="206" height="126" rx="11" fill="#f1f0fe"/>
+<g font-size="15" fill="#48607b"><text x="85" y="194">Input records</text><text x="306" y="194">Accepted rows</text><text x="527" y="194">Rejected rows</text><text x="748" y="194">Data quality</text></g>
+<g font-size="42" font-weight="bold"><text x="85" y="256" fill="#16324f">255</text><text x="306" y="256" fill="#207c62">240</text><text x="527" y="256" fill="#b96541">15</text><text x="748" y="256" fill="#5d5ab0">94.1%</text></g>
+<text x="69" y="343" font-size="23" font-weight="bold" fill="#16324f">Completed order revenue by region</text>
+<text x="69" y="372" font-size="14" fill="#5c748b">All figures are illustrative and based on synthetic records</text>
+<g fill="#e6eef5"><rect x="156" y="403" width="556" height="23" rx="7"/><rect x="156" y="451" width="556" height="23" rx="7"/><rect x="156" y="499" width="556" height="23" rx="7"/><rect x="156" y="547" width="556" height="23" rx="7"/><rect x="156" y="595" width="556" height="23" rx="7"/></g>
+<g fill="#4abda1"><rect x="156" y="403" width="556" height="23" rx="7"/><rect x="156" y="451" width="456" height="23" rx="7"/><rect x="156" y="499" width="387" height="23" rx="7"/><rect x="156" y="547" width="321" height="23" rx="7"/><rect x="156" y="595" width="188" height="23" rx="7"/></g>
+<g font-size="15" fill="#39546f"><text x="69" y="420">North</text><text x="69" y="468">South</text><text x="69" y="516">East</text><text x="69" y="564">West</text><text x="69" y="612">Central</text></g>
+<g font-size="15" fill="#16324f" text-anchor="end"><text x="931" y="420">$24,036.00</text><text x="931" y="468">$19,738.50</text><text x="931" y="516">$16,727.00</text><text x="931" y="564">$13,874.50</text><text x="931" y="612">$8,148.50</text></g>
+<line x1="69" y1="651" x2="934" y2="651" stroke="#dfe8f0"/>
+<text x="70" y="685" font-size="13" fill="#62778a">Personal demo · No real client or proprietary information</text>
+</g></svg>
